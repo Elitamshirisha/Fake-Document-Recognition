@@ -59,20 +59,16 @@ The system is developed to help organizations, institutions, and recruiters veri
 
 ### Step 1: Clone the repository
 
-bash
 git clone https://github.com/Elitamshirisha/Fake-Document-Recognition.git
-cd Fake-Document-Recognition
 
 
 ### Step 2: Install dependencies
 
-bash
 pip install -r requirements.txt
 
 
 ### Step 3: Run the application
 
-bash
 streamlit run app.py
 
 
@@ -81,11 +77,8 @@ streamlit run app.py
 ## Output
 
 The system predicts:
+
 Original Document
+
 Forgery Document
 
----
-
-## Author
-
-Shirisha Elitam
